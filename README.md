@@ -17,6 +17,7 @@ Ejecutar como Administrador
 https://controlautomaticoeducacion.com/wp-content/uploads/PROTEUS-ARDUINO.zip
 
 Copiar ARDUINO.LIB a:
+![Capt](https://github.com/RAS-Chapter-UNI-Nic/Arduino-ABC/blob/master/img/Captura.PNG)
 C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY
 
 
