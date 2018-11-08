@@ -11,11 +11,12 @@ pinMode(buttonBpin, INPUT_PULLUP);
 void loop(){
   if (digitalRead(buttonApin) == LOW)
 {
-  digitalWrite(ledPin, HIGH);
+  digitalWrite(ledPin, LOW);
+  delay(50);
 }
   if (digitalRead(buttonBpin) == LOW)
 {
-  digitalWrite(ledPin, LOW);
+  digitalWrite(ledPin, HIGH);
 }
               
 }
